@@ -1,0 +1,52 @@
+git and github
+--------------
+
+git
+---
+vcm - version control system/management
+scm - software configuration management
+
+developer
+   '
+   '  pushes project
+   '
+github
+   '
+   'clones the project
+   '
+subdevelopers d1 and d2
+   '
+   '
+d1 add code and pushes to github
+   '
+   '
+d2 pull up the updated project from github
+   '
+   '
+d2 then pushes the updated project to github
+   '
+   '
+atlast the developer pull from github
+
+
+github---remote repository
+our system-- local repository
+
+git operations
+--------------
+
+push  -  local repository to remote repository -- uploading new projects and changes
+clone -  remote repository to local repository -- downloading exact copy  of project
+pull  -  remote repository to local repository -- downloading changes 
+
+
+push
+----
+1.add
+2.commit
+3.push
+
+developer side                                                                             github
+     '                                                                                        '
+     '                                                                                        '
+local storage---> add ---> staging area----> commit----> local repository---> push ---> remote repository
