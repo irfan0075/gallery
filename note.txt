@@ -50,3 +50,7 @@ developer side                                                                  
      '                                                                                        '
      '                                                                                        '
 local storage---> add ---> staging area----> commit----> local repository---> push ---> remote repository
+
+
+
+new file
